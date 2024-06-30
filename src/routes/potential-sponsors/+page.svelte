@@ -11,6 +11,8 @@
 		<h1 class="pb-3 text-6xl font-bold bg-gradient-to-r from-green-400 via-green-500 to-green-400 inline-block text-transparent bg-clip-text">
 			Potential Sponsors
 		</h1>
-		<h2 class="text-2xl">Coming soon</h2>
 	</div>
+</div>
+<div class="flex flex-col items-center text-center mt-8 mb-16">
+	<a href="https://docs.google.com/forms/d/1be4_hUv80ExXWjI6jjLlzrm0pQbaZJBAq9KNosa34Fg/" style="box-shadow: 5px 5px 5px 5px blue; border-radius: 15px">Link to Potential Sponsorship form</a>
 </div>
