@@ -11,6 +11,9 @@
         <h1 class="pb-3 text-6xl font-bold bg-gradient-to-r from-green-400 via-green-500 to-green-400 inline-block text-transparent bg-clip-text">
             Connect
         </h1>
-        <h2 class="text-2xl">Coming soon</h2>
+        <!-- TODO: put all contact information for Hangar 84 below. -->
+        <div class="text-2xl">
+            <a href="https://www.instagram.com/hangar84roswell/" style="box-shadow: 5px 5px 5px 5px blue; border-radius: 15px">Instagram</a><br>
+        </div>
     </div>
 </div>
